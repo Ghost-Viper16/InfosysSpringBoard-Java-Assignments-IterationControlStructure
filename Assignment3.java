@@ -4,8 +4,8 @@ class Assignment3 {
 		// Implement your code here 
 		//int b = 738 ;
 		//int a = 123 ;
-   		System.out.println("Enter a number: ");
    		Scanner sc = new Scanner(System.in);
+   		System.out.println("Enter a number: ");
    		int a = sc.nextInt();
 		System.out.println("Enter second to check first number is seed number of this: ");
 		int b = sc.nextInt();
