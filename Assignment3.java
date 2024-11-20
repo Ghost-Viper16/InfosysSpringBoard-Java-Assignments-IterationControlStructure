@@ -4,13 +4,12 @@ class Assignment3 {
 		// Implement your code here 
 		//int b = 738 ;
 		//int a = 123 ;
-    System.out.println("Enter a number: ");
-    Scanner sc = new Scanner(System.in);
-    int a = sc.nextInt();
+   		System.out.println("Enter a number: ");
+   		Scanner sc = new Scanner(System.in);
+   		int a = sc.nextInt();
 		System.out.println("Enter second to check first number is seed number of this: ");
-    Scanner sc = new Scanner(System.in);
-    int b = sc.nextInt();
-    int t = a ;
+		int b = sc.nextInt();
+    		int t = a ;
 		int r = a;
 		while(t != 0)
 		{
